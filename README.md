@@ -1,2 +1,2 @@
 # Module-7
-This challenge is an ETF analysis with the SQL database.
+This challenge is an analysis of ETF data Utilizing SQL
